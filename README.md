@@ -1,6 +1,5 @@
 # 🚤 Boatrace Open API for Results
 
-[![cron](https://github.com/BoatraceOpenAPI/results/actions/workflows/cron.yml/badge.svg)](https://github.com/BoatraceOpenAPI/results/actions/workflows/cron.yml)
 [![pages-build-deployment](https://github.com/BoatraceOpenAPI/results/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/BoatraceOpenAPI/results/actions/workflows/pages/pages-build-deployment)
 [![issues](https://img.shields.io/github/issues/BoatraceOpenAPI/results.svg)](https://github.com/BoatraceOpenAPI/results/issues)
 [![pulls](https://img.shields.io/github/issues-pr/BoatraceOpenAPI/results.svg)](https://github.com/BoatraceOpenAPI/results/pulls)
